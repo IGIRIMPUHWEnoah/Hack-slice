@@ -1,0 +1,96 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.title{
+
+display: inline-block;
+
+
+}
+
+
+.navigations{
+
+display: inline-block;
+margin-left: 450px;
+
+}
+
+.flist{
+
+display: inline-block;
+margin-left: 50px;
+
+}
+
+.flink{
+
+font-family: Poppins;
+text-decoration: none;
+color: black;
+
+}
+
+.flink:hover{
+color: rgb(230, 11, 164);
+
+}
+
+.main{
+
+background-image: url('grok.jpg');
+height: 600px;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.line{
+
+border: 1px solid rgb(167, 158, 158);
+box-shadow: 2px 2px 2px rgb(189, 189, 189);
+}
+
+
+.loginform{
+
+border: 1px solid rgb(195, 188, 188);
+transform: translate(1000px,50px);
+width: 200px;
+background-color: rgba(196, 187, 187,0.5);
+border-radius: 10px;
+box-shadow: 5px 5px 5px rgb(59, 58, 58);
+
+
+}
+
+.login{
+
+    padding-left: 55px;
+    font-family: poppins;
+    
+}
+
+input{
+
+margin-left: 10px;
+outline:none ;
+border: none;
+background-color:rgba(128, 128, 128,0);
+
+border-bottom: 1px solid white;
+    
+}
+
+.forgot{
+
+    padding-left: 20px;
+    font-family: poppins;
+}
+
+.singup{
+
+    padding-left: 30px;
+    font-family: poppins;
+}
